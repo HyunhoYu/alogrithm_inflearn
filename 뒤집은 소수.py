@@ -1,6 +1,6 @@
-"https://velog.io/@rapid97/Python-인프런-알고리즘"
+"https://velog.io/@rapid97/Python-인프런-알고리즘"      <<<<<코드 설명은 여기서!!!!
 
-import sys<<<<<코드 설명은 여기서!!!!
+import sys
 sys.stdin = open("input.txt", "rt")
 
 """
